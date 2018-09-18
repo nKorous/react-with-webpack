@@ -6,4 +6,4 @@ me. It is kind of a pain but now at least i know what i need to do to set one
 up from scratch. 
 
 
-**_May use this as a blank 'starting template' for future React products._**
+**_May use this as a blank 'starting template' for future React apps._**
